@@ -1,4 +1,4 @@
-Hola, soy Lautaro 👋
+#Hola, soy Lautaro 👋
 Sobre mí
 Soy un programador web con experiencia en lenguajes como HTML, CSS y JavaScript, así como en frameworks como React y Node.js. Me considero un líder natural y siempre busco maneras de organizar, motivar y empoderar a mi equipo. Soy una persona sociable y me encanta colaborar con gente de diferentes orígenes y culturas. Me apasiona la tecnología y siempre estoy buscando nuevas formas de innovar y mejorar mis habilidades. Soy un entusiasta del aprendizaje continuo y estoy siempre en busca de nuevos desafíos para seguir creciendo profesionalmente.
 
