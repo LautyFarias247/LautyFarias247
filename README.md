@@ -1,14 +1,29 @@
-<h1 align="center">Hola! 👋 Soy Lautaro</h1>
-<h3 align="center">Fullstack developer</h3>
-
-<h3 align="left">Sobre mi:</h3>
-<p>Mi nombre es Lautaro Farías, tengo 20 años, soy un aficionado al mercado financiero. Me considero un líder natural y siempre busco maneras de organizar, motivar y empoderar a mi equipo. Soy una persona sociable y me encanta colaborar con gente de diferentes orígenes y culturas. Me apasiona la tecnología y siempre estoy buscando nuevas formas de innovar y mejorar mis habilidades. Soy un entusiasta del aprendizaje continuo y estoy siempre en busca de nuevos desafíos para seguir creciendo profesionalmente. </p>
-<hr>
-
-<h3 align="left">Actualmente utilizo las siguientes tecnologías:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-<p align="left">
-<a href="https://linkedin.com/in/lautaro farías" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro farías" height="30" width="40" /></a>
+<h1 align="center">¡Hola, soy [Tu nombre]! 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/[Tu nombre]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[Tu nombre]/" alt="LinkedIn"></a>
+  <a href="https://github.com/[Tu usuario]"><img src="https://img.shields.io/github/followers/[Tu usuario]?style=social" alt="GitHub"></a>
 </p>
+
+<p>¡Bienvenido a mi perfil de GitHub! Soy un/a [tus habilidades] y me encanta trabajar en proyectos desafiantes y emocionantes. En mi tiempo libre, me gusta aprender nuevas tecnologías y herramientas para mejorar mis habilidades.</p>
+
+<h2>🚀 Habilidades técnicas</h2>
+<ul>
+  <li>HTML/CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>MongoDB</li>
+  <li>Git</li>
+</ul>
+
+<h2>💻 Proyectos recientes</h2>
+<ul>
+  <li><a href="https://github.com/[Tu usuario]/[nombre de proyecto]">[nombre de proyecto]</a>: [breve descripción del proyecto]</li>
+  <li><a href="https://github.com/[Tu usuario]/[nombre de proyecto]">[nombre de proyecto]</a>: [breve descripción del proyecto]</li>
+  <li><a href="https://github.com/[Tu usuario]/[nombre de proyecto]">[nombre de proyecto]</a>: [breve descripción del proyecto]</li>
+</ul>
+
+<h2>📫 Contáctame</h2>
+<p>Puedes encontrarme en <a href="https://www.linkedin.com/in/[Tu nombre]">LinkedIn</a> o enviarme un correo electrónico a [tu correo electrónico]. ¡Hablemos!</p>
+
