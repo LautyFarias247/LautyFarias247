@@ -25,10 +25,11 @@
 
 <h2>💻 Proyectos recientes</h2>
 <ul>
-  <li><a href="https://el-bodegon-cliente-local.vercel.app/" target="_blank">
+  <li>
     <h3>
+    <a href="https://el-bodegon-cliente-local.vercel.app/" target="_blank">
     El Bodegón de Tony</a>:
-    </h3></a>
+    </h3>
     Proyecto final de Henry, trabajé en equipo para desarrollar una aplicación web de un restaurant utilizando tecnologías como React, Redux, Node.js, Express, MongoDB y Mongoose. Además, utilizamos Bootstrap para el diseño y Chart.js para la visualización de datos. Integramos la API de Mercado Pago para procesar pagos y Auth0 para la autenticación de usuarios. Como miembro del equipo, me dediqué a tareas importantes como la arquitectura de la aplicación y la implementación de funciones críticas.
 Todo el proyecto se desarrolló utilizando la metodología Scrum para garantizar la máxima eficiencia y productividad.</li>
   <li><a href="ttps://github.com/LautyFarias247/PI_Dogs_Henry">Wikidogs</a>:</li>
