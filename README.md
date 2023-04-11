@@ -35,7 +35,7 @@ Todo el proyecto se desarrolló utilizando la metodología Scrum para garantizar
   <li><h3><a href="https://github.com/LautyFarias247/PI_Dogs_Henry" target="blank">Wikidogs</a>:</h3> Desarrollé una aplicación web sobre perros utilizando React, Redux, Node.js y Express. Esta aplicación permitía a los usuarios hacer una petición a una API externa y mostrar los resultados en una interfaz amigable para el usuario. Durante el desarrollo, mejoré mis habilidades en el manejo de estas tecnologías y adquirí un conocimiento profundo sobre cómo trabajar con ellas. También aprendí a manejar de manera efectiva los desafíos técnicos que surgieron durante el desarrollo del proyecto</li>
 </ul>
 
-<h2>📫 Contáctame</h2>
-<p>Puedes encontrarme en <a href="https://www.linkedin.com/in/lautaro-farias-247-">LinkedIn</a> o enviarme un correo electrónico a lauty0618@gmail.com.</p>
+<h2>📫 Contactame</h2>
+<p>Podés encontrarme en <a href="https://www.linkedin.com/in/lautaro-farias-247-">LinkedIn</a> o enviarme un correo electrónico a lauty0618@gmail.com.</p>
 <p>Gracias por visitar mi perfil!</p>
 
