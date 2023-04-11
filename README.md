@@ -25,8 +25,7 @@
 
 <h2>💻 Proyectos recientes</h2>
 <ul>
-  [sitio web personal](https://el-bodegon-cliente-local.vercel.app/){:target="_blank"}
-  <li><a href="https://el-bodegon-cliente-local.vercel.app/">
+  <li><a href="https://el-bodegon-cliente-local.vercel.app/" target="_blank">
     <h3>
     El Bodegón de Tony</a>:
     </h3>
