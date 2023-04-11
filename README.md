@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Lautaro! 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lautaro-farias-247"
-     target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[Tu nombre]/" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/lautaro-farias-247-"
+     target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[Tu nombre]/" alt="LinkedIn"></a>
 </p>
 
 <p>¡Bienvenido a mi perfil de GitHub! Me gradué como fullstack developer en <a href="https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=brand&gclid=CjwKCAjw586hBhBrEiwAQYEnHc-tWj5noyHDxMMI0qEe8l-ZarCmn6qH9ONllBPf8PKfWIaO8AgXHxoCY-4QAvD_BwE"target="_blank">SoyHenry</a> y me encanta trabajar en proyectos desafiantes y emocionantes. En mi tiempo libre, me gusta aprender nuevas tecnologías y herramientas para mejorar mis habilidades.</p>
