@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola, soy Lautaro! 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/[Tu nombre]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[Tu nombre]/" alt="LinkedIn"></a>
-  <a href="https://github.com/lautyfarias247">
+  <a href="https://www.linkedin.com/in/lautaro-farias-247"
+     target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[Tu nombre]/" alt="LinkedIn"></a>
 </p>
 
-<p>¡Bienvenido a mi perfil de GitHub! Me gradué como fullstack developer en <a href="https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=brand&gclid=CjwKCAjw586hBhBrEiwAQYEnHc-tWj5noyHDxMMI0qEe8l-ZarCmn6qH9ONllBPf8PKfWIaO8AgXHxoCY-4QAvD_BwE">SoyHenry</a> y me encanta trabajar en proyectos desafiantes y emocionantes. En mi tiempo libre, me gusta aprender nuevas tecnologías y herramientas para mejorar mis habilidades.</p>
+<p>¡Bienvenido a mi perfil de GitHub! Me gradué como fullstack developer en <a href="https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=brand&gclid=CjwKCAjw586hBhBrEiwAQYEnHc-tWj5noyHDxMMI0qEe8l-ZarCmn6qH9ONllBPf8PKfWIaO8AgXHxoCY-4QAvD_BwE"target="_blank">SoyHenry</a> y me encanta trabajar en proyectos desafiantes y emocionantes. En mi tiempo libre, me gusta aprender nuevas tecnologías y herramientas para mejorar mis habilidades.</p>
 
 <h2>🚀 Mis habilidades técnicas</h2>
 <ul>
@@ -25,7 +25,11 @@
 
 <h2>💻 Proyectos recientes</h2>
 <ul>
-  <li><a href="https://el-bodegon-cliente-local.vercel.app/">El Bodegón de Tony</a>: Proyecto final de Henry, trabajé en equipo para desarrollar una aplicación web de un restaurant utilizando tecnologías como React, Redux, Node.js, Express, MongoDB y Mongoose. Además, utilizamos Bootstrap para el diseño y Chart.js para la visualización de datos. Integramos la API de Mercado Pago para procesar pagos y Auth0 para la autenticación de usuarios. Como miembro del equipo, me dediqué a tareas importantes como la arquitectura de la aplicación y la implementación de funciones críticas.
+  <li><a href="https://el-bodegon-cliente-local.vercel.app/">
+    <h3>
+    El Bodegón de Tony</a>:
+    </h3>
+    Proyecto final de Henry, trabajé en equipo para desarrollar una aplicación web de un restaurant utilizando tecnologías como React, Redux, Node.js, Express, MongoDB y Mongoose. Además, utilizamos Bootstrap para el diseño y Chart.js para la visualización de datos. Integramos la API de Mercado Pago para procesar pagos y Auth0 para la autenticación de usuarios. Como miembro del equipo, me dediqué a tareas importantes como la arquitectura de la aplicación y la implementación de funciones críticas.
 Todo el proyecto se desarrolló utilizando la metodología Scrum para garantizar la máxima eficiencia y productividad.</li>
   <li><a href="ttps://github.com/LautyFarias247/PI_Dogs_Henry">Wikidogs</a>:</li>
 </ul>
